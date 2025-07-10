@@ -1,4 +1,4 @@
-//lepa year
+//leap year
 #include <stdio.h> 
 int main()
 { 
