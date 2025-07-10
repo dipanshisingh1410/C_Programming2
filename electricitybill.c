@@ -1,4 +1,4 @@
-//elcetricity bill 
+//electricity bill 
 #include <stdio.h>
 int main()
 { 
